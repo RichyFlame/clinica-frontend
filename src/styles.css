@@ -1,2 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+.bg-c1{
+  opacity: var(--sds-size-stroke-border);
+  background: #083344;
+}
+
+.bg-c2{
+  opacity: var(--sds-size-stroke-border);
+  background: var(--Scooter-800, #156775);
+}
+
+.bg-c3{
+  opacity: var(--sds-size-stroke-border);
+  background: #A5F3FC;
+}
+
+.bg-c4{
+  border: var(--sds-size-stroke-border) solid #000;
+  opacity: var(--sds-size-stroke-border);
+  background: var(--Scooter-50, #ECFCFF);
+}
 
